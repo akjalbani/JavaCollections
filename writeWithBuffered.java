@@ -12,7 +12,7 @@ import java.io.FileWriter;
 
 /**
  *
- * @author jalba
+ * @author AAJ
  */
 public class writeWithBuffered {
 
