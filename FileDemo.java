@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Akhtar jalbani
+ * @author AAJ
  */
 public class FileDemo {
 
