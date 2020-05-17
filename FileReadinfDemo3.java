@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author jalba
+ * @author AAJ
  */
 public class FileReadinfDemo3 {
     public static void main(String[] args) {
