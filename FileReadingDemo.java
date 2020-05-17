@@ -10,7 +10,7 @@ import java.io.IOException;
 
 /**
  *
- * @author jalba
+ * @author AAJ
  */
 public class FileReadingDemo {
     public static void main(String[] args) throws IOException {
