@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author jalba
+ * @author AAJ
  */
 public class ReadwithBuffered {
 
