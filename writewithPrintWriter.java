@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author jalba
+ * @author AAJ
  */
 public class writewithPrintWriter {
     public static void main(String[] args) {
