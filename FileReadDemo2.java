@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author jalba
+ * @author AAJ
  */
 public class FileReadDemo2 {
     public static void main(String[] args) throws IOException {
