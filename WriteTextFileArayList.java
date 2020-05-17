@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 /**
  *
- * @author jalba
+ * @author AAJ
  */
 public class WriteTextFileArayList {
     
